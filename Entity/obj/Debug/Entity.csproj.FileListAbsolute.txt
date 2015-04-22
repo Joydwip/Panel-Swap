@@ -1,0 +1,5 @@
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\Entity\obj\Debug\Entity.pdb

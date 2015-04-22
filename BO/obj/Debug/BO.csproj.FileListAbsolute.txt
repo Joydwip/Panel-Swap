@@ -1,0 +1,18 @@
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\BO.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\BO.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\DAL.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\DAL.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\obj\Debug\BO.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\BO\obj\Debug\BO.pdb
+E:\Panel Swap\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\Panel Swap\BO\obj\Debug\BO.dll
+E:\Panel Swap\BO\bin\Debug\BO.dll
+E:\Panel Swap\BO\bin\Debug\BO.pdb
+E:\Panel Swap\BO\bin\Debug\DAL.dll
+E:\Panel Swap\BO\bin\Debug\Entity.dll
+E:\Panel Swap\BO\bin\Debug\DAL.pdb
+E:\Panel Swap\BO\bin\Debug\Entity.pdb
+E:\Panel Swap\BO\obj\Debug\BO.pdb

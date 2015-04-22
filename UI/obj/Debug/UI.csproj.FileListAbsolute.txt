@@ -1,0 +1,28 @@
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.exe.config
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.exe
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\UI.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Properties.Resources.resources
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.exe
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\BO.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\Entity.dll
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\BO.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\bin\Debug\Entity.pdb
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Input_Form.resources
+F:\1001001\21\CSE 2114\Labwork\Panel Swap\UI\obj\Debug\UI.Panel_Swap.resources
+E:\Panel Swap\UI\bin\Debug\UI.exe.config
+E:\Panel Swap\UI\obj\Debug\UI.exe
+E:\Panel Swap\UI\obj\Debug\UI.pdb
+E:\Panel Swap\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\Panel Swap\UI\obj\Debug\UI.Input_Form.resources
+E:\Panel Swap\UI\obj\Debug\UI.Panel_Swap.resources
+E:\Panel Swap\UI\obj\Debug\UI.Properties.Resources.resources
+E:\Panel Swap\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\Panel Swap\UI\bin\Debug\UI.exe
+E:\Panel Swap\UI\bin\Debug\UI.pdb
+E:\Panel Swap\UI\bin\Debug\BO.dll
+E:\Panel Swap\UI\bin\Debug\Entity.dll
+E:\Panel Swap\UI\bin\Debug\BO.pdb
+E:\Panel Swap\UI\bin\Debug\Entity.pdb
