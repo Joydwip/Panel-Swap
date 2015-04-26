@@ -141,5 +141,10 @@ namespace UI
             label23.Text = s[3].id;
             label24.Text = s[3].discipline;
         }
+
+        private void label25_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
